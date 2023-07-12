@@ -1,2 +1,5 @@
-# new
-new repo
+int main()
+{
+printf("hello world");
+}
+
